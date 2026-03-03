@@ -119,10 +119,6 @@ chat("how many times Pakistan won the match as winner")
 
 ```
 Pakistan has won XX matches.
+
 ```
 
-
-## Author
-M Abssar Hussain
-
-Your Name
